@@ -1,2 +1,2 @@
 # djl
-This is a brief summary about me
+I'm a senior at Mississippi State. My major is electrical engineering.
